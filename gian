@@ -5,10 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> gian </title>
-    </head>
+  <link rel=shortcut ícone "href="icon
+ico"type="imagemx-com">
+  </head>
     <body>   
-        <h1>Quem sou eu?
-        <p> eu sou gian e gosto muito de andar de skate</p>
+     <ul>
+   <li> jogos são Devil may cry 3 </li>
+       <li> filmes são: os Smurfs </li>
+</ul>
+<ol>
+<l1> meu livro é Harry Potter </l1>
+img src="gian.png"alt"tem.uma.imagem.aq">
 </body>
 </html>
 
